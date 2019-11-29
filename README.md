@@ -1,0 +1,2 @@
+# what it is
+callback base async in rust which inspired by [the_node_experiment_exploring_async_basics_with](https://www.reddit.com/r/rust/comments/dfei9l/the_node_experiment_exploring_async_basics_with/)
